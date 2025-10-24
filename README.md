@@ -9,7 +9,8 @@ what its incude:
 SETUP OF CHATBOT BEFORE USE IT 
 I made both Frontend and Backend file seprate ad chatGUI.py and backend.py respetively 
 1. Install the Google SDK by (pip install genai) for using some important functions
-2. Install the PySimpleGUI module for make GUI ('''pip install PySimpleGUI) you can use any version of this module
+2. Install the PySimpleGUI module for make GUI (pip install PySimpleGUI) you can use any version of this module
 3. Then after you can get the Gemini API for free by Google_Ai_Studio
 
-           NOW YOUR ALL SET JUST USE THE FILES AND RUN IT ON YOUR CODE EDITOR 
+
+              NOW YOUR ALL SET JUST USE THE FILES AND RUN IT ON YOUR CODE EDITOR 
