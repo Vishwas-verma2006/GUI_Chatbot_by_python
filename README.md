@@ -6,7 +6,7 @@ what its incude:
 3. Core logic of chatbot
 4. Google SDK for using functions
 
-**SETUP OF CHATBOT BEFORE USE IT **
+**SETUP OF CHATBOT BEFORE USE IT**
 
 I made both Frontend and Backend file seprate ad chatGUI.py and backend.py respetively 
 1. Install the Google SDK by (```pip install genai```) for using some important functions
